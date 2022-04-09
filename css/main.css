@@ -78,6 +78,10 @@ main > .container {
     color: #212529;
 }
 
+#btn-answer {
+    margin-bottom: 10px;
+}
+
 .btn-like {
     color: #00FA9A;
     text-align: center;
